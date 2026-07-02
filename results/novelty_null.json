@@ -1,0 +1,353 @@
+[
+  {
+    "d": 7,
+    "k": 64,
+    "seed": 0,
+    "T": 128000,
+    "n_total": 4096,
+    "n_alive": 4096,
+    "obs_novel_frac": 0.846435546875,
+    "null_novel_frac": 0.974853515625,
+    "deciles": [
+      {
+        "decile": 1,
+        "rate_lo": 0.00021875000675208867,
+        "rate_hi": 0.004699218785390258,
+        "n_features": 410,
+        "obs_novel_frac": 0.9902439024390244,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.037949934294882165,
+        "null_mean": 0.008056297898292542
+      },
+      {
+        "decile": 2,
+        "rate_lo": 0.004699218785390258,
+        "rate_hi": 0.005882812663912773,
+        "n_features": 410,
+        "obs_novel_frac": 0.9804878048780488,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.04371260625349094,
+        "null_mean": 0.009025154635310173
+      },
+      {
+        "decile": 3,
+        "rate_lo": 0.005882812663912773,
+        "rate_hi": 0.006824218900874259,
+        "n_features": 410,
+        "obs_novel_frac": 0.975609756097561,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.04857478595429165,
+        "null_mean": 0.009655868634581566
+      },
+      {
+        "decile": 4,
+        "rate_lo": 0.006824218900874259,
+        "rate_hi": 0.007859375327825546,
+        "n_features": 410,
+        "obs_novel_frac": 0.948780487804878,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.052228347236066605,
+        "null_mean": 0.01001560129225254
+      },
+      {
+        "decile": 5,
+        "rate_lo": 0.007859375327825546,
+        "rate_hi": 0.009148437529802322,
+        "n_features": 417,
+        "obs_novel_frac": 0.9688249400479616,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.05428383157631329,
+        "null_mean": 0.010771184228360653
+      },
+      {
+        "decile": 6,
+        "rate_lo": 0.009148437529802322,
+        "rate_hi": 0.010499999858438976,
+        "n_features": 411,
+        "obs_novel_frac": 0.8832116788321168,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.06713426195134659,
+        "null_mean": 0.011471171863377094
+      },
+      {
+        "decile": 7,
+        "rate_lo": 0.010499999858438976,
+        "rate_hi": 0.01235546870157123,
+        "n_features": 409,
+        "obs_novel_frac": 0.8875305623471883,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.07022893050904973,
+        "null_mean": 0.01248503290116787
+      },
+      {
+        "decile": 8,
+        "rate_lo": 0.01235546870157123,
+        "rate_hi": 0.015179687179625034,
+        "n_features": 410,
+        "obs_novel_frac": 0.8390243902439024,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.08097416709413441,
+        "null_mean": 0.014308112673461437
+      },
+      {
+        "decile": 9,
+        "rate_lo": 0.015179687179625034,
+        "rate_hi": 0.02144921850413084,
+        "n_features": 412,
+        "obs_novel_frac": 0.7087378640776699,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.09983520888281996,
+        "null_mean": 0.018053386360406876
+      },
+      {
+        "decile": 10,
+        "rate_lo": 0.02144921850413084,
+        "rate_hi": 0.9830937385559082,
+        "n_features": 410,
+        "obs_novel_frac": 0.2804878048780488,
+        "null_novel_frac": 0.748780487804878,
+        "obs_mean": 0.17618383219578962,
+        "null_mean": 0.052326228469610214
+      }
+    ],
+    "_timings": {
+      "encode": 6.4,
+      "obs_jacc": 9.9,
+      "null_jacc": 10.0
+    }
+  },
+  {
+    "d": 50,
+    "k": 64,
+    "seed": 0,
+    "T": 128000,
+    "n_total": 4096,
+    "n_alive": 4096,
+    "obs_novel_frac": 0.6748046875,
+    "null_novel_frac": 1.0,
+    "deciles": [
+      {
+        "decile": 1,
+        "rate_lo": 3.9062499126885086e-05,
+        "rate_hi": 0.004007812589406967,
+        "n_features": 411,
+        "obs_novel_frac": 0.9513381995133819,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.045965364433038634,
+        "null_mean": 0.0079879779368639
+      },
+      {
+        "decile": 2,
+        "rate_lo": 0.004007812589406967,
+        "rate_hi": 0.005984374787658453,
+        "n_features": 413,
+        "obs_novel_frac": 0.8861985472154964,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.06395389547665606,
+        "null_mean": 0.008942458778619766
+      },
+      {
+        "decile": 3,
+        "rate_lo": 0.005984374787658453,
+        "rate_hi": 0.007484375033527613,
+        "n_features": 412,
+        "obs_novel_frac": 0.8640776699029126,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.06925928877804402,
+        "null_mean": 0.00982583500444889
+      },
+      {
+        "decile": 4,
+        "rate_lo": 0.007484375033527613,
+        "rate_hi": 0.008820312097668648,
+        "n_features": 414,
+        "obs_novel_frac": 0.8140096618357487,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.07532150240588767,
+        "null_mean": 0.0105039207264781
+      },
+      {
+        "decile": 5,
+        "rate_lo": 0.008820312097668648,
+        "rate_hi": 0.010210937820374966,
+        "n_features": 415,
+        "obs_novel_frac": 0.7807228915662651,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.08272020051170136,
+        "null_mean": 0.011348864994943142
+      },
+      {
+        "decile": 6,
+        "rate_lo": 0.010210937820374966,
+        "rate_hi": 0.011695312336087227,
+        "n_features": 414,
+        "obs_novel_frac": 0.7077294685990339,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.09049512777899961,
+        "null_mean": 0.012178935110569
+      },
+      {
+        "decile": 7,
+        "rate_lo": 0.011695312336087227,
+        "rate_hi": 0.013523437082767487,
+        "n_features": 412,
+        "obs_novel_frac": 0.6747572815533981,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.09276129535189986,
+        "null_mean": 0.013432597741484642
+      },
+      {
+        "decile": 8,
+        "rate_lo": 0.013523437082767487,
+        "rate_hi": 0.016117187216877937,
+        "n_features": 412,
+        "obs_novel_frac": 0.5436893203883495,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.11266950128489087,
+        "null_mean": 0.015155605040490627
+      },
+      {
+        "decile": 9,
+        "rate_lo": 0.016117187216877937,
+        "rate_hi": 0.02124609425663948,
+        "n_features": 410,
+        "obs_novel_frac": 0.4292682926829268,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.13037426482603517,
+        "null_mean": 0.01855958066880703
+      },
+      {
+        "decile": 10,
+        "rate_lo": 0.02124609425663948,
+        "rate_hi": 0.9997968673706055,
+        "n_features": 410,
+        "obs_novel_frac": 0.1048780487804878,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.2327761366949333,
+        "null_mean": 0.041325751692056656
+      }
+    ],
+    "_timings": {
+      "encode": 6.3,
+      "obs_jacc": 10.1,
+      "null_jacc": 10.4
+    }
+  },
+  {
+    "d": 200,
+    "k": 64,
+    "seed": 0,
+    "T": 128000,
+    "n_total": 4096,
+    "n_alive": 4096,
+    "obs_novel_frac": 0.594970703125,
+    "null_novel_frac": 1.0,
+    "deciles": [
+      {
+        "decile": 1,
+        "rate_lo": 7.812500371073838e-06,
+        "rate_hi": 0.0032578124664723873,
+        "n_features": 411,
+        "obs_novel_frac": 0.948905109489051,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.04620050230700369,
+        "null_mean": 0.008240708149969578
+      },
+      {
+        "decile": 2,
+        "rate_lo": 0.0032578124664723873,
+        "rate_hi": 0.005546874832361937,
+        "n_features": 411,
+        "obs_novel_frac": 0.8491484184914841,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.07042485722165462,
+        "null_mean": 0.00867974478751421
+      },
+      {
+        "decile": 3,
+        "rate_lo": 0.005546874832361937,
+        "rate_hi": 0.007281249854713678,
+        "n_features": 414,
+        "obs_novel_frac": 0.7439613526570048,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.08396480043033852,
+        "null_mean": 0.009668825194239616
+      },
+      {
+        "decile": 4,
+        "rate_lo": 0.007281249854713678,
+        "rate_hi": 0.008890625089406967,
+        "n_features": 417,
+        "obs_novel_frac": 0.7074340527577938,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.09052332059736033,
+        "null_mean": 0.010462130419909954
+      },
+      {
+        "decile": 5,
+        "rate_lo": 0.008890625089406967,
+        "rate_hi": 0.01041796850040555,
+        "n_features": 410,
+        "obs_novel_frac": 0.6731707317073171,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.09704346510874039,
+        "null_mean": 0.011431321501731873
+      },
+      {
+        "decile": 6,
+        "rate_lo": 0.01041796850040555,
+        "rate_hi": 0.011984375305473804,
+        "n_features": 411,
+        "obs_novel_frac": 0.6082725060827251,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.10646573428761313,
+        "null_mean": 0.012508350424468517
+      },
+      {
+        "decile": 7,
+        "rate_lo": 0.011984375305473804,
+        "rate_hi": 0.013812500052154064,
+        "n_features": 411,
+        "obs_novel_frac": 0.5206812652068127,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.11965727949602409,
+        "null_mean": 0.013648216612637043
+      },
+      {
+        "decile": 8,
+        "rate_lo": 0.013812500052154064,
+        "rate_hi": 0.016203124076128006,
+        "n_features": 411,
+        "obs_novel_frac": 0.41605839416058393,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.13141817545156728,
+        "null_mean": 0.01549669448286295
+      },
+      {
+        "decile": 9,
+        "rate_lo": 0.016203124076128006,
+        "rate_hi": 0.02120312489569187,
+        "n_features": 411,
+        "obs_novel_frac": 0.3771289537712895,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.15205328389885148,
+        "null_mean": 0.018636643886566162
+      },
+      {
+        "decile": 10,
+        "rate_lo": 0.02120312489569187,
+        "rate_hi": 0.9994453191757202,
+        "n_features": 411,
+        "obs_novel_frac": 0.09975669099756691,
+        "null_novel_frac": 1.0,
+        "obs_mean": 0.27525289611328047,
+        "null_mean": 0.038775064051151276
+      }
+    ],
+    "_timings": {
+      "encode": 6.3,
+      "obs_jacc": 10.1,
+      "null_jacc": 10.7
+    }
+  }
+]

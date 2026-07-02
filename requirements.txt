@@ -1,0 +1,22 @@
+# --- Figures/tables tier (`run_all.sh --figures`) — runs on a laptop, no GPU ---
+numpy
+scipy
+matplotlib
+
+# --- Smoke + full pipeline tiers (`--smoke`, `--full`) ---
+torch==2.4.0
+transformers==4.44.0
+datasets
+accelerate
+tqdm
+zstandard
+
+# Triton structured-OMP decoding kernels (Appendix C; GPU only)
+triton
+
+# Modal is used to run the GPU steps of the `--full` pipeline
+modal
+
+# --- Optional: blinded LLM feature-coherence eval (feature_dashboard_eval.py) ---
+openai
+anthropic
